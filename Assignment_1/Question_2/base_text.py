@@ -1,3 +1,9 @@
+gpt4o_summary  = '''The Olympic Games began in ancient Greece as a religious festival honoring Zeus, evolving into a unifying athletic competition. Revived in 1896 by Baron Pierre de Coubertin, the modern Olympics have become a global event symbolizing international unity and competition.'''
+
+llama3_405B_summary = '''The Olympic Games originated in ancient Greece as a religious festival, were revived in 1896, and have since grown into a global sporting event promoting unity and competition, despite facing challenges and controversies throughout their history.'''
+
+gemini_flash_summary = '''The Olympic Games, originating in ancient Greece as a religious festival, were revived in the late 19th century to promote international peace and understanding. From a single footrace to a global spectacle, the Games have evolved over time, facing challenges but remaining a symbol of unity and competition.'''
+
 base_text = '''The Olympic Games, a global sporting spectacle, trace their roots back to ancient Greece. Originating as a
 religious festival honouring Zeus, the god of sky and thunder, the ancient Olympics were held in Olympia
 every four years from approximately 776 BC to 393 AD. Initially, the games consisted of a single footrace, but
@@ -24,5 +30,3 @@ diluted, the spirit of competition, excellence, and friendship remains at the he
 The Olympics have come a long way since their humble beginnings in ancient Greece. From a local religious
 festival to a global spectacle, the Games have shaped the course of history and continue to inspire athletes
 and spectators alike.'''
-
-print(base_text)

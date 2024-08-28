@@ -19,4 +19,3 @@ sentance_list_gpt40_es = [sentance1_gpt40_es, sentance2_gpt40_es, sentance3_gpt4
 sentence_list_gt_es = []
 for sentance in sentance_list:
     sentence_list_gt_es.append(GoogleTranslator(source='auto', target='es').translate(sentance))
-print(sentence_list_gt_es)

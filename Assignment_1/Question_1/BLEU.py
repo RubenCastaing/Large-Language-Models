@@ -1,5 +1,5 @@
 import nltk
-from Translate_to_spainish import sentance_list, sentance_list_gpt40_es, sentence_list_gt_es
+from base_text import sentance_list, sentance_list_gpt40_es, sentence_list_gt_es
 
 weights_list = [(1,),(1/2, 1/2),(1/3, 1/3, 1/3),(0.25, 0.25, 0.25, 0.25)]
 
